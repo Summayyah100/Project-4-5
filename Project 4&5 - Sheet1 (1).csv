@@ -1,0 +1,11 @@
+age,gender,education,mental_illbeing_cause_1,mental_illbeing_cause_2,mental_illbeing_mechanism_1,mental_illbeing_mechanism_2,favorite_modern_feature_1,favorite_modern_feature_2,favorite_modern_feature_3,mothers_specific,fathers_specific,children_specific
+18,Male,16,Stress,Social media,Constant pressure,Cyberbullying,Technology,Improved healthcare,Social media,Work-life balance,Financial stress,Cyberbullying
+35,Female,18,Trauma,Work pressure,Unresolved emotions,Burnout,Connectivity,Access to information,Dependence on technology,Lack of support,Work pressure,Bullying
+40,Male,12,Social isolation,Financial stress,Lack of social support,Job insecurity,Healthcare,Entertainment,Materialism,Societal pressure,Work pressure,Social media
+19,Female,15,Trauma,Social media,PTSD triggers,Addiction,Online shopping,Entertainment,Social media,Mom guilt,Work pressure,Cyberbullying
+31,Male,14,Isolation,Job insecurity,Loneliness,Unemployment,Convenience,Remote work,Lack of human interaction,Single parenting,Job pressure,Social media
+25,Female,20,Social media,Parenting stress,Addiction to technology,Lack of work-life balance,Online communication,Improved healthcare,Materialism,Postpartum,Financial stress,Cyberbullying
+20,Male,17,Social media,Lack of purpose,Comparison,Self-doubt,Online gaming,Connectivity,Online shopping,Lack of support,Work pressure,Bullying
+39,Female,16,Trauma,Family stress,PTSD triggers,Overwhelm,Online shopping,Convenience,Social media,Mom guilt,Work pressure,Cyberbullying
+19,Male,18,Work pressure,Social media,Burnout,Social comparison,Convenience,Connectivity,Materialism,Lack of support,Financial stress,Bullying
+25,Male,12,Social media	,Lack of purpose	,Comparison,Self-doubt	,Remote work	,Online_gaming,Online_shopping	,Work-life balance,Financial stress,Cyberbullying
